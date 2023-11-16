@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    background-image: radial-gradient(circle, rgb(209, 144, 3),rgb(154, 59, 0));
+    background-attachment: fixed;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-align: center;
+}
+main{
+    background-image: linear-gradient(180deg, rgb(114, 58, 8), rgb(89, 43, 2));
+    border-radius: 15px;
+    width: 1020px;
+    margin: auto;
+}
+img{
+    width: 150px;
+    border-radius: 15px;
+}
+table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: antiquewhite;
+    margin-left: 25px;
+}
